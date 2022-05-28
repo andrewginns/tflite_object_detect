@@ -55,7 +55,7 @@ dependencies {
     interpreterImplementation project(":lib_interpreter")
     taskApiImplementation project(":lib_task_api")
     implementation 'androidx.appcompat:appcompat:1.4.1'
-    implementation 'androidx.coordinatorlayout:coordinatorlayout:1.2.1'
+    implementation 'androidx.coordinatorlayout:coordinatorlayout:1.2.0'
     implementation 'com.google.android.material:material:1.6.0'
 
     androidTestImplementation 'androidx.test.ext:junit:1.1.3'
